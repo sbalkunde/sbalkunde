@@ -1,6 +1,9 @@
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsunanda/)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-Profile-lightgrey?style=flat&logo=servicenow&logoColor=white)](https://nowlearning.servicenow.com/lxp?id=nl_public&user=sbalkunde1341275)
+[![Notion](https://img.shields.io/badge/Notion-Workspace-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Sunanda-Ganpati-Balkunde-fb3b35e67b064d3d8cc2117039c84f17)
 
-Hi, I’m **Sunanda**!  8+ years of experience in IT Service Management (ITSM) from India
+**Hi, I’m **Sunanda**!  8+ years of experience in IT Service Management (ITSM) from India**
 
 I’m passionate about building efficient, streamlined processes and leveraging technology to drive operational excellence. Currently, I’m expanding my expertise into Cloud and DevOps, combining my foundational skills with emerging technology to push the boundaries of service management.
 
