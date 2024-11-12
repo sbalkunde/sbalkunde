@@ -24,5 +24,5 @@ Cloud & DevOps Transition - Actively upskilling in Cloud Infrastructure and DevO
 Certifications & Continuous Learning - preparing to pursue certifications like A+, Network+, and Server+ to deepen my technical expertise for cloud/on-prem infrastructure support roles.
 
 💼 Let's Connect
-Interested in ITSM, ServiceNow, or cloud-based infrastructure? I’d love to collaborate and exchange ideas! Feel free to reach out at sbalkunde@hawk.iit.edu.
+Interested in ITSM, ServiceNow, or cloud-based infrastructure? I’d love to collaborate and exchange ideas! Feel free to reach out.
 
