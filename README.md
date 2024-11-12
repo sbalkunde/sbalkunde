@@ -4,9 +4,6 @@
 [![Notion](https://img.shields.io/badge/Notion-Workspace-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Sunanda-Ganpati-Balkunde-fb3b35e67b064d3d8cc2117039c84f17)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:sbalkunde@hawk.iit.edu)
 
-![Sunanda](Linkedin.jpg)
-
-
 **Hi, I’m **Sunanda**!  8+ years of experience in IT Service Management (ITSM) from India**
 
 I’m passionate about building efficient, streamlined processes and leveraging technology to drive operational excellence. Currently, I’m expanding my expertise into ITIL and ServiceNow, combining my foundational skills with emerging technology to push the boundaries of IT service management.
